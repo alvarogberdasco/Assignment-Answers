@@ -1,0 +1,129 @@
+2 networks have been found using a value of IntAct miscore of 0.45.
+
+
+
+Network: Contains 558 genes
+The file's genes of this network are: 
+AT1G03130
+AT1G14280
+AT1G71030
+AT1G76080
+AT3G21870
+AT4G02770
+AT4G09650
+AT4G17460
+AT4G22890
+AT5G15850
+AT5G17300
+
+The KEGG annotations of the original genes of this network are:
+
+KEGG ID: ath00195		Pathway name: Photosynthesis
+KEGG ID: ath01100		Pathway name: Metabolic pathways
+KEGG ID: ath00190		Pathway name: Oxidative phosphorylation
+
+
+The GO annotations of the original genes of this network are:
+
+GO ID: GO:0009718		Pathway name: P:anthocyanin-containing compound biosynthetic process
+GO ID: GO:0030154		Pathway name: P:cell differentiation
+GO ID: GO:0010023		Pathway name: P:proanthocyanidin biosynthetic process
+GO ID: GO:0015979		Pathway name: P:photosynthesis
+GO ID: GO:0003006		Pathway name: P:developmental process involved in reproduction
+GO ID: GO:0010582		Pathway name: P:floral meristem determinacy
+GO ID: GO:0080127		Pathway name: P:fruit septum development
+GO ID: GO:0048467		Pathway name: P:gynoecium development
+GO ID: GO:0003700		Pathway name: F:DNA-binding transcription factor activity
+GO ID: GO:0009734		Pathway name: P:auxin-activated signaling pathway
+GO ID: GO:0007623		Pathway name: P:circadian rhythm
+GO ID: GO:0010600		Pathway name: P:regulation of auxin biosynthetic process
+GO ID: GO:0006355		Pathway name: P:regulation of DNA-templated transcription
+GO ID: GO:0016567		Pathway name: P:protein ubiquitination
+GO ID: GO:0009909		Pathway name: P:regulation of flower development
+GO ID: GO:0000398		Pathway name: P:mRNA splicing, via spliceosome
+GO ID: GO:0140547		Pathway name: P:acquisition of seed longevity
+GO ID: GO:0009773		Pathway name: P:photosynthetic electron transport in photosystem I
+GO ID: GO:0009772		Pathway name: P:photosynthetic electron transport in photosystem II
+GO ID: GO:0015986		Pathway name: P:proton motive force-driven ATP synthesis
+GO ID: GO:0009409		Pathway name: P:response to cold
+GO ID: GO:0035556		Pathway name: P:intracellular signal transduction
+GO ID: GO:0007049		Pathway name: P:cell cycle
+GO ID: GO:0051301		Pathway name: P:cell division
+GO ID: GO:0000079		Pathway name: P:regulation of cyclin-dependent protein serine/threonine kinase activity
+GO ID: GO:0048366		Pathway name: P:leaf development
+GO ID: GO:0009638		Pathway name: P:phototropism
+GO ID: GO:0009585		Pathway name: P:red, far-red light phototransduction
+GO ID: GO:0045454		Pathway name: P:cell redox homeostasis
+GO ID: GO:0042742		Pathway name: P:defense response to bacterium
+GO ID: GO:0010286		Pathway name: P:heat acclimation
+GO ID: GO:0006979		Pathway name: P:response to oxidative stress
+GO ID: GO:0009414		Pathway name: P:response to water deprivation
+
+
+
+Network: Contains 559 genes
+The file's genes of this network are: 
+AT1G03130
+AT1G14280
+AT1G71030
+AT1G76080
+AT3G21870
+AT3G62550
+AT4G02770
+AT4G09650
+AT4G17460
+AT4G22890
+AT5G15850
+AT5G17300
+
+The KEGG annotations of the original genes of this network are:
+
+KEGG ID: ath00195		Pathway name: Photosynthesis
+KEGG ID: ath01100		Pathway name: Metabolic pathways
+KEGG ID: ath00190		Pathway name: Oxidative phosphorylation
+
+
+The GO annotations of the original genes of this network are:
+
+GO ID: GO:0006355		Pathway name: P:regulation of DNA-templated transcription
+GO ID: GO:0009738		Pathway name: P:abscisic acid-activated signaling pathway
+GO ID: GO:0009926		Pathway name: P:auxin polar transport
+GO ID: GO:0009734		Pathway name: P:auxin-activated signaling pathway
+GO ID: GO:0006952		Pathway name: P:defense response
+GO ID: GO:0009873		Pathway name: P:ethylene-activated signaling pathway
+GO ID: GO:0009789		Pathway name: P:positive regulation of abscisic acid-activated signaling pathway
+GO ID: GO:0006470		Pathway name: P:protein dephosphorylation
+GO ID: GO:0035304		Pathway name: P:regulation of protein dephosphorylation
+GO ID: GO:0010119		Pathway name: P:regulation of stomatal movement
+GO ID: GO:0009723		Pathway name: P:response to ethylene
+GO ID: GO:0009718		Pathway name: P:anthocyanin-containing compound biosynthetic process
+GO ID: GO:0030154		Pathway name: P:cell differentiation
+GO ID: GO:0010023		Pathway name: P:proanthocyanidin biosynthetic process
+GO ID: GO:0007049		Pathway name: P:cell cycle
+GO ID: GO:0051301		Pathway name: P:cell division
+GO ID: GO:0000079		Pathway name: P:regulation of cyclin-dependent protein serine/threonine kinase activity
+GO ID: GO:0003006		Pathway name: P:developmental process involved in reproduction
+GO ID: GO:0010582		Pathway name: P:floral meristem determinacy
+GO ID: GO:0080127		Pathway name: P:fruit septum development
+GO ID: GO:0048467		Pathway name: P:gynoecium development
+GO ID: GO:0015979		Pathway name: P:photosynthesis
+GO ID: GO:0140547		Pathway name: P:acquisition of seed longevity
+GO ID: GO:0009773		Pathway name: P:photosynthetic electron transport in photosystem I
+GO ID: GO:0009772		Pathway name: P:photosynthetic electron transport in photosystem II
+GO ID: GO:0015986		Pathway name: P:proton motive force-driven ATP synthesis
+GO ID: GO:0009409		Pathway name: P:response to cold
+GO ID: GO:0035556		Pathway name: P:intracellular signal transduction
+GO ID: GO:0009909		Pathway name: P:regulation of flower development
+GO ID: GO:0000398		Pathway name: P:mRNA splicing, via spliceosome
+GO ID: GO:0003700		Pathway name: F:DNA-binding transcription factor activity
+GO ID: GO:0007623		Pathway name: P:circadian rhythm
+GO ID: GO:0010600		Pathway name: P:regulation of auxin biosynthetic process
+GO ID: GO:0016567		Pathway name: P:protein ubiquitination
+GO ID: GO:0048366		Pathway name: P:leaf development
+GO ID: GO:0009638		Pathway name: P:phototropism
+GO ID: GO:0009585		Pathway name: P:red, far-red light phototransduction
+GO ID: GO:0045454		Pathway name: P:cell redox homeostasis
+GO ID: GO:0042742		Pathway name: P:defense response to bacterium
+GO ID: GO:0010286		Pathway name: P:heat acclimation
+GO ID: GO:0006979		Pathway name: P:response to oxidative stress
+GO ID: GO:0009414		Pathway name: P:response to water deprivation
